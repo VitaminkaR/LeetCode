@@ -1,19 +1,16 @@
-//#include <string>
-//#include <vector>
-//using namespace std;
-//
-//// FUNCTION
-//
-//void func()
-//{
-//	
-//}
-//
-/////////////////////////////
-//#include <iostream>
-//
-//// TESTS
-//int main()
-//{
-//	
-//}
+#include "headers.h"
+
+// FUNCTION
+
+void func()
+{
+	
+}
+
+///////////////////////////
+
+// TESTS
+int main()
+{
+	
+}
