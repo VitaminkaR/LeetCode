@@ -23,14 +23,14 @@ int lengthOfLastWord(string s)
 	return mlen;
 }
 
-#include <iostream>
-
-int main()
-{
-	// 5
-	cout << lengthOfLastWord("Hello World") << endl;
-	// 4
-	cout << lengthOfLastWord("   fly me   to   the moon  ") << endl;
-	// 6
-	cout << lengthOfLastWord("luffy is still joyboy") << endl;
-}
+//#include <iostream>
+//
+//int main()
+//{
+//	// 5
+//	cout << lengthOfLastWord("Hello World") << endl;
+//	// 4
+//	cout << lengthOfLastWord("   fly me   to   the moon  ") << endl;
+//	// 6
+//	cout << lengthOfLastWord("luffy is still joyboy") << endl;
+//}
